@@ -1,0 +1,25 @@
+{
+  "name": "gridsome-plugin-matomo",
+  "version": "0.1.0",
+  "description": "",
+  "author": "duong tam kien <tk@renard.ninja>",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "matomo"
+  ],
+  "license": "MIT",
+  "main": "gridsome.client.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "gridsome.client.js"
+  ],
+  "dependencies": {
+    "vue-matomo": "^3.12.0"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
