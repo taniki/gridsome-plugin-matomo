@@ -1,7 +1,8 @@
-{
+/{
   "name": "gridsome-plugin-matomo",
   "version": "0.1.0",
-  "description": "",
+  "description": "Matomo plugin for gridsome",
+  "homepage": "https://github.com/taniki/gridsome-plugin-matomo/",
   "author": "duong tam kien <tk@renard.ninja>",
   "keywords": [
     "gridsome",
@@ -20,6 +21,6 @@
     "vue-matomo": "^3.12.0"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=8"
   }
 }
