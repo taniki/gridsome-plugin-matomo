@@ -1,7 +1,7 @@
-/{
+{
   "name": "gridsome-plugin-matomo",
   "version": "0.1.0",
-  "description": "Matomo plugin for gridsome",
+  "description": "Matomo plugin for Gridsome",
   "homepage": "https://github.com/taniki/gridsome-plugin-matomo/",
   "author": "duong tam kien <tk@renard.ninja>",
   "keywords": [
