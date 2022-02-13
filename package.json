@@ -18,7 +18,7 @@
     "gridsome.client.js"
   ],
   "dependencies": {
-    "vue-matomo": "^3.12.0"
+    "vue-matomo": "^4.1.0"
   },
   "engines": {
     "node": ">=8"
